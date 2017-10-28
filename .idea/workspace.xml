@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21d06e23-d9ac-401b-a58d-b20031c6d0a2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-02-27-hello-world.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-02-28-ssh-tunnel-docker-container.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-03-04-create-elastic-search-snapshot-docker.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-03-24-changing-storage-location-for-docker-volume.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-03-24-troubleshooting-docker-daemon.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-09-18-indie-developer-guide-to-production.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-09-19-configure-remote-python-pycharm-docker.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-04-06-how-i-rest-from-work.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-04-06-welcome-to-jekyll.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-09-10-conference-on-javascript.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-09-12-10-tips-to-improve-your-workflow.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-09-12-how-to-start-programming.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-09-12-the-best-organizer-software.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/david-freeman.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/home-page.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/how-to-start.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/i-rest.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/js-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/mac.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/post-example.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/promo-img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/software.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/we-in-rest.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/workflow.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/analytics.html" afterPath="$PROJECT_DIR$/_includes/analytics.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/main.html" afterPath="$PROJECT_DIR$/_layouts/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-28-ssh-tunnel-docker-container.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-02-28-ssh-tunnel-docker-container.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="179" lean-forward="false" selection-start-line="4" selection-start-column="179" selection-end-line="4" selection-end-column="179" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-03-04-create-elastic-search-snapshot-docker.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-03-04-create-elastic-search-snapshot-docker.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-03-24-changing-storage-location-for-docker-volume.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-03-24-changing-storage-location-for-docker-volume.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="103" lean-forward="false" selection-start-line="4" selection-start-column="103" selection-end-line="4" selection-end-column="103" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-03-24-troubleshooting-docker-daemon.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-03-24-troubleshooting-docker-daemon.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="110" lean-forward="false" selection-start-line="4" selection-start-column="110" selection-end-line="4" selection-end-column="110" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-09-18-indie-developer-guide-to-production.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-18-indie-developer-guide-to-production.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="49" lean-forward="false" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-09-19-configure-remote-python-pycharm-docker.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-19-configure-remote-python-pycharm-docker.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="26">
+                <caret line="2" column="52" lean-forward="false" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="52" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-27-hello-world.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-02-27-hello-world.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="125" lean-forward="false" selection-start-line="3" selection-start-column="125" selection-end-line="3" selection-end-column="125" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="1078" column="11" lean-forward="false" selection-start-line="1078" selection-start-column="11" selection-end-line="1078" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>highlighter-</find>
+      <find>highlighter-rouge</find>
+      <find>pre</find>
+      <find>disqus.html</find>
+      <find>content</find>
+      <find>arte</find>
+      <find>twitter</find>
+      <find>an book</find>
+      <find>width: 70%</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_posts/2017-04-06-how-i-rest-from-work.markdown" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_includes/analytics.html" />
+        <option value="$PROJECT_DIR$/_layouts/page.html" />
+        <option value="$PROJECT_DIR$/_layouts/main.html" />
+        <option value="$PROJECT_DIR$/_site/index.html" />
+        <option value="$PROJECT_DIR$/_site/about/index.html" />
+        <option value="$PROJECT_DIR$/_site/indie-developer-guide-to-production/index.html" />
+        <option value="$PROJECT_DIR$/about.md" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-27-hello-world.md" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-28-ssh-tunnel-docker-container.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-03-04-create-elastic-search-snapshot-docker.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-03-24-changing-storage-location-for-docker-volume.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-03-24-troubleshooting-docker-daemon.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-19-configure-remote-python-pycharm-docker.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-18-indie-developer-guide-to-production.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flexible-jekyll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexible-jekyll" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexible-jekyll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexible-jekyll" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexible-jekyll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexible-jekyll" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexible-jekyll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexible-jekyll" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexible-jekyll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexible-jekyll" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flexible-jekyll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flexible-jekyll" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/_layouts" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/_posts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21d06e23-d9ac-401b-a58d-b20031c6d0a2" name="Default" comment="" />
+      <created>1509208979329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509208979329</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="732" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31640625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2469697" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-06-how-i-rest-from-work.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="445" column="18" lean-forward="false" selection-start-line="445" selection-start-column="1" selection-end-line="445" selection-end-column="18" />
+          <folding>
+            <marker date="1509212734000" expanded="true" signature="8044:8171" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="8284:8328" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="8356:8374" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="8404:8422" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="8454:8494" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="8535:8553" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="8592:8610" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="8648:8666" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="8705:8760" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="8799:8824" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="8860:8878" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="8915:8933" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="8972:9027" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9067:9085" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9123:9141" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9200:9218" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9260:9278" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9319:9337" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9377:9395" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9438:9456" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9497:9515" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9553:9571" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9611:9629" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9664:9682" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9719:9740" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9778:9799" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9837:9855" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9891:9909" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9943:9961" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="9998:10016" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10054:10072" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10107:10125" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10163:10181" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10218:10236" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10270:10288" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10326:10347" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10379:10397" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10434:10452" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10488:10506" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10545:10563" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10607:10625" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10667:10685" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10731:10749" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10791:10809" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10856:10874" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10917:10957" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="10999:11017" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="11062:11080" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="11125:11143" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="11189:11207" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="11254:11272" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="11316:11334" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="11378:11396" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="11441:11459" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="11504:11522" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="11565:11583" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="11626:11644" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="11688:11706" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="11752:11770" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="11845:11863" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="11888:11959" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="11996:12171" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="12176:12199" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="12205:12278" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="12291:12410" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="12416:12536" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="12547:12602" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="12613:12659" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="12682:12711" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="12730:12788" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="12802:12860" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="12898:12934" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="12953:12971" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="13045:13584" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="13593:13638" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="13667:13837" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="13850:14151" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="14170:14259" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="14281:14470" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="14499:14820" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="14831:14873" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="14888:15387" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="15413:15565" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="15599:15903" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="15936:16241" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="16255:16327" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="16344:16393" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="16462:16733" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="16758:16878" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="16898:16955" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="16963:17714" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="17728:17986" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="18010:18167" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="18189:18224" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="18290:18312" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="18346:18408" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="18444:18524" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="18548:18568" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="18599:18859" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="18881:18998" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="19020:19140" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="19219:19239" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="19254:19297" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="19324:19387" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="19413:19502" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="19522:19644" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="19676:19710" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="19725:20120" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="20147:20193" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="20222:20530" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="20686:20850" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="20883:20916" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="20986:21057" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="21073:21155" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="21171:21210" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="21218:21251" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="21262:21325" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="21338:21568" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="21587:21619" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="21638:21684" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="21709:21757" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="21891:22363" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="21901:22145" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="22170:22192" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="22215:22237" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="22272:22298" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="22436:23965" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="22449:23091" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="23110:23140" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="23150:23229" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="23243:23376" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="23392:23909" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="23939:23963" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="24043:24546" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="24060:24084" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="24093:24328" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="24353:24375" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="24398:24420" ph="{...}" />
+            <marker date="1509212734000" expanded="true" signature="24455:24481" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/disqus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="35" column="51" lean-forward="false" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="35" column="55" lean-forward="false" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/ivdelchev.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/david-freeman.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/indie-developer-guide-to-production/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="73" lean-forward="false" selection-start-line="2" selection-start-column="73" selection-end-line="2" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="7" column="223" lean-forward="false" selection-start-line="7" selection-start-column="223" selection-end-line="7" selection-end-column="223" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/home-page.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/how-to-start.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/i-rest.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/mac.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/js-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/post-example.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/promo-img.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/software.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/we-in-rest.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/workflow.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/pagination.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="27" column="23" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="27" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="1078" column="11" lean-forward="false" selection-start-line="1078" selection-start-column="11" selection-end-line="1078" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-27-hello-world.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="125" lean-forward="false" selection-start-line="3" selection-start-column="125" selection-end-line="3" selection-end-column="125" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-28-ssh-tunnel-docker-container.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="179" lean-forward="false" selection-start-line="4" selection-start-column="179" selection-end-line="4" selection-end-column="179" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-04-create-elastic-search-snapshot-docker.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-24-changing-storage-location-for-docker-volume.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="103" lean-forward="false" selection-start-line="4" selection-start-column="103" selection-end-line="4" selection-end-column="103" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-24-troubleshooting-docker-daemon.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="110" lean-forward="false" selection-start-line="4" selection-start-column="110" selection-end-line="4" selection-end-column="110" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-19-configure-remote-python-pycharm-docker.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="26">
+            <caret line="2" column="52" lean-forward="false" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="52" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-18-indie-developer-guide-to-production.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="49" lean-forward="false" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

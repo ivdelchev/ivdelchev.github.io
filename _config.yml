@@ -1,0 +1,33 @@
+title: The blog of Ivan Delchev
+description: > # this means to ignore newlines until "baseurl:"
+  I am a fullstack software engineer and entrepreneur living in Switzerland.
+permalink:          date
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://blog.leandot.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author Settings
+author: Ivan Delchev # add your name
+author-img: ivdelchev.png # add your photo
+about-author: I am a fullstack software engineer and entrepreneur living in Switzerland. <br/>founder of <a href="https://42matters.com">42matters</a> and creator of <a href="http://hackernewsbooks.com">Hacker News Books</a>. <br/><br/>I have been building scalable products for more than ten years, with a focus on containerization and search.. <a href="/about">Read More</a> # add description
+twitter: # add your Twitter handle
+facebook: # add your Facebook handle
+github: ivdelchev # add your Github handle
+linkedin: https://www.linkedin.com/in/ivandelchev # add your Linkedin handle
+email: ivan@leandot.com # add your Email address
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
