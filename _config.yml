@@ -1,6 +1,5 @@
-title: The blog of Ivan Delchev
-description: > # this means to ignore newlines until "baseurl:"
-  I am a fullstack software engineer and entrepreneur living in Switzerland.
+title: Leandot: Random posts by Ivan Delchev
+description: On building scalable products with a focus on containerization and search.
 permalink:          date
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.leandot.com" # the base hostname & protocol for your site, e.g. http://example.com
