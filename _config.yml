@@ -7,7 +7,7 @@ url: "http://blog.leandot.com" # the base hostname & protocol for your site, e.g
 # Author Settings
 author: Ivan Delchev # add your name
 author-img: ivdelchev.png # add your photo
-about-author: I am a fullstack developer and entrepreneur living in Switzerland. <br/>founder of <a href="https://42matters.com">42matters</a> and creator of <a href="http://hackernewsbooks.com">Hacker News Books</a>. <br/><br/>I build highly maintanable software products with a focus on performance and scalability. <br/><br/> <a href="/about">About</a> # add description
+about-author: I am a software engineer and entrepreneur living in Switzerland. <br/>founder of <a href="https://42matters.com">42matters</a> and creator of <a href="http://hackernewsbooks.com">Hacker News Books</a>. <br/><br/>I build highly maintanable software products with a focus on performance and scalability. <br/><br/> <a href="/about">About</a> # add description
 twitter: # add your Twitter handle
 facebook: # add your Facebook handle
 github: ivdelchev # add your Github handle
