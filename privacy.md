@@ -13,7 +13,7 @@ The Leandot website is personally run by its owner - Ivan Delchev.
 
 ## What we collect
 
-We do not collect any personally identifiable information (PII). Leandot.com integrates [Google Analytics](https://www.google.com/analytics) **with** IP Anonymization enabled and **without** Demographics and Interest Reports or Remarketing. The website is hosted on Github Pages and your browser may send anonymous information when you visit the Leandot website, including operating system, browser version etc. We do not have access to those logs.
+We do not collect any personally identifiable information (PII). Leandot.com integrates [Google Analytics](https://www.google.com/analytics) **with** IP Anonymization enabled for the purposes of anonymyzed visitor statistics. The website is hosted on Github Pages and your browser may send anonymous information when you visit the Leandot website, including operating system, browser version etc. We do not have access to those logs.
 
 ## How we use information
 
