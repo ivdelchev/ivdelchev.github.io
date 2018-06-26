@@ -7,18 +7,13 @@ My name is Ivan Delchev and I am a software engineer and entrepreneur living in 
 
 Some of the things I've done in no particular order:
 
-* Built 42matters with exceptional co-founders
+* Built 42matters with exceptional co-founders & currently serving as VP of Engineering
 * Built from scratch and then sold HackerNewsBooks
-* Currently VP of Engineering in charge of an amazing engineering team
-* Scaling up multiple SaaS products from scratch
-* Designed and implemented an API-first SaaS
-* The usual backend stuff - Python, Java, Go + Postgres/Mongo
-* A bit of high-performance JavaScript (not the usual frontend stuff)
-* Implemented Stripe subscriptions to handle $$k+/month revenues
+* Scaled up multiple API-first SaaS products
+* Payment provider integrations to handle $$$k+/month revenues
+* Backend - Python, Java, Go + Postgres/Mongo
+* Docker, Kubernetes and Terraform for DevOps
 * Full-text search with Elastic
-* Docker, Docker, Docker
-* A lot of cloud - mostly AWS
-* Some product management
-* A bit of marketing
+* AWS Cloud
 
 Do not hesitate to drop me a line, I try to answer any message. If you are in Zurich, let's grab a drink.
